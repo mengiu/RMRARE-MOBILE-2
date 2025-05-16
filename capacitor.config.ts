@@ -1,9 +1,9 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'operatorisiss.servizirl.it',
+  appId: 'regione.lombardia.it',
   appName: 'RMRARE MOBILE',
-  webDir: 'dist'
+  webDir: 'dist/rmrarefe/browser'
 };
 
 export default config;
